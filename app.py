@@ -45,16 +45,16 @@ def algo_to_det(doration, sent, recived)-> int:
     return ans
 
 def main():
-  """anomaly Classifier App
+  """ELF Classifier App
     With Streamlit
 
   """
 
-  st.title("Anomaly Classifier")
+  st.title("ELF Classifier")
   html_temp = """
-  <div style="background-color:blue;padding:10px">
-  <h2 style="color:grey;text-align:center;">Streamlit App </h2>
-  </div>
+  # <div style="background-color:blue;padding:10px">
+  # <h2 style="color:grey;text-align:center;">Streamlit App </h2>
+  # </div>
 
   """
   st.markdown(html_temp,unsafe_allow_html=True)
@@ -64,18 +64,20 @@ def main():
   sent_packets = st.number_input("Enter sent packets",min_value=0)
   recive_packets = st.number_input("Enter recive packets",min_value=0)
   duration = st.number_input("Enter duration",min_value=0)
+
+  file_size=st.number_input("Enter file size",min_value=0)
   
   if st.button("Predict"):
     result = algo_to_det(duration,sent_packets,recive_packets)
     if result < 1:
       prediction = 'Bad'
-      img = 'bad.png'
+      img = 'mal.png'
     else:
       prediction = 'Good'
-      img = 'good.png'
+      img = 'ben.jpeg'
 
-    st.success('The data: sent packets: {}\trevive packets {}\t douratrion:{} \nwas classified as {}'.format(sent_packets,recive_packets,duration,prediction))
+    st.success('The data: file size: {}'.format(file_size)) #: {}' ) #sent packets: {}\trevive packets {}\t douratrion:{} \nwas classified as {}'.format(sent_packets,recive_packets,duration,prediction))
     load_images(img)
 
-print("#hetchlno")
+print("#hetchalnu")
 main()
