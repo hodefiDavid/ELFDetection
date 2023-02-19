@@ -60,12 +60,13 @@ with open('elfAdress.txt', 'r') as f:
         s = line.rstrip('\n')
         try:
           data = (elf_to_json(s))
+          data = data.rstrip('\n')
           combined_data.append(data)
           sumwork += 1 
         except:
           sumfaild += 1 
 
-                    
+data = (elf_to_json(s))                    
 # Write the combined data to a new file
 with open('combined.json', 'w') as f:
     json.dump(combined_data, f)
