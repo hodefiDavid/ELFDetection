@@ -44,7 +44,7 @@ def elf_to_json(elf_file_path):
         elf_dict['sections'] = sections
 
 
-    return json.dumps(elf_dict, indent=2)
+    return json.dumps(elf_dict) # ,indent=2
 
 sumfaild = 0
 sumwork = 0 
