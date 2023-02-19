@@ -116,7 +116,6 @@ def make_df_norm():
     df.to_pickle("packed_df.pkl")  # where to save it, usually as a .pkl
 
 
-
 make_df_norm()
 df = pd.read_pickle("packed_df.pkl")
 print(df.head)
