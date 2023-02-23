@@ -1,0 +1,960 @@
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-free_grid.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-puts.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (166).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (13).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/printAVGof4numbers.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_03.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_27.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/clock_thread.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_17.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-strdup.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (34).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (10).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/gcd3.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-hash_table_print.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Bubble_sort.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-get_op_func.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-print_dog.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/days-to-month.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_32.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (112).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (163).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (11).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/8787.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/largest-num-amount-n.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (192).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/volume-sphere.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1212.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw5inclass.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/greatest-number.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/103-fibonacci.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (133).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (14).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_assignment#6_vs-studio.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/homework8.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_33.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern10.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/6-abs.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/87978.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (92).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/ythread.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-sum.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (14).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (14).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/filehandling.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/transpose.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (147).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (10).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-print_alphabets.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/101-magic.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/10-print_comb2.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (11).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/6-print_numberz.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw10.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Check that number is Perfect Number or Not.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (215).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (26).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (38).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (217).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Fibonacci_CodeGolf.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (9).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (12).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (15).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/gradesforclassavg.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/fibonacci-series.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_35.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (16).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-print_remaining_days.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (10).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hhh.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/arrayHW 9 in progress.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (13).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (93).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_02.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/bubble_sorting.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Switch (2)fromwill.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/number-swap-no-temp.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tolower.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/matrix.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (11).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_10.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/time-sec.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern-3.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-hash_table_create.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (15).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (121).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/example1.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (214).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (59).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (161).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (150).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/7-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-last_digit.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (186).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Global variables and Constants using limits.h library.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (143).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_assignment#2_vs-studio.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_assignment#7_vs-studio.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/switch-case.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/8-print_array.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-string_nconcat.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_assignment#3_vs-studio.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (14).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (199).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/11-print_to_98.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (120).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (31).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/105-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (21).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tool.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-djb2.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-isalpha.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (197).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (70).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/xemit.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/HackerRank_Reversed Number.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-linear.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/AreaOfCircle.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/inclass.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (16).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/789.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (137).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/FindDuplicate.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/barrier.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (17).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (15).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_14.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (61).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prime-no-1-100.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (181).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (151).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (194).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-times_table.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/india_map.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/101-print_comb4.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-isdigit.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_28.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern5.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (185).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/square-table-pro-v1.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (116).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (172).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (13).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/switchpractice.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_41.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/10.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/recurrsion_factorial.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (144).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/x_pattern.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/trace.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (206).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw9final.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3325.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-print_alphabet_x10.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (218).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (81).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/array_sum.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/79875.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/test.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Students-Result.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/ejemplo.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (141).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw6_partC.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (20).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/87 (9).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (132).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/palindrome.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/10-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Y (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/multiply.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (88).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/evenFibonacciSum.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (135).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (16).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/unit.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/8-24_hours.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Binary_Search_Golf.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/positive_or_negative.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/sum-of-individuals.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (11).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Lab_Infix_to_Postfix.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_sid.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern12.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/quick_sort.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/convertTemps.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (64).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (111).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/87 (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/helloworld.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/multiplication.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/area-sphere.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/777.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/assignment2.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/sumOfDigits.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (19).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (68).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/factorial.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/AddArray.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (62).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Quine.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (29).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-sqaure.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-atoi.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (198).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_06.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/7-print_diagonal.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/micky_mouse.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (13).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (53).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/12.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Factorial_Golf.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-main_opcodes.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/findavegrades2.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/9-times_table.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/7-puts_half.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (85).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (114).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/assignment1.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/87 (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-jump.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (10).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (156).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/output.txt
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-strncpy.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (109).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_26.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern-1.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (170).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/stackfact.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (101).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/11-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/ArrayStudy.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-rev_string1.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/AI.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_11.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/piggybank.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_25.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_assignment#8_vs-studio.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (26).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/102-fibonacci.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_01.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_22.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/radiusandcircumfrence.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/simple-interest.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_23.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/task.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (190).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/87 (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Swap_2_variables.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/whileCountMultiples.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (13).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (167).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/9-print_comb.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (216).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_tbuf.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (202).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (160).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/arrayINclassGrade.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/6-hash_table_delete.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (1).asm
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/multiplication-table.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/eventual.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (115).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw9.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (23).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/8-print_square.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/enumerator.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (213).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/practiceProblem1.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (9).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (18).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/key.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (119).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pow.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/sample 1 hw in class.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/futures.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (18).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_20.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/89898.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/while_loops.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (25).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (17).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/countOddNo.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4 (using switch).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Code_of_the_Rings.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (203).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (13).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (12).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (21).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (14).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/greatest-num-among-3.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/87 (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (155).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (47).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Matrix multiplication.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (23).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Fibonnaci series generation upto nth term.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-str_concat.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-convert-hr-min-sec.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Parallel_Array_Addiion.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_04.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-print_numbers.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-isupper.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-init_dog.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-calloc.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (33).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/fahrenheit-to-celcius.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (74).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (86).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-mul.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/shipping.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (126).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (138).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/102-interpolation.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (196).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (195).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/8.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (15).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (10).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/6.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (136).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/87 (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/basic-calculator.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (46).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/444.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Number_of_Divisors_for_a_Number.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/check-positive-negative-zero.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (30).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (15).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (11).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Check the Number is Palindrome or Not..c
+/home/david/ELFDetection/ELFDetection/c_files/cc/undef.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (99).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (80).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (16).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-while-loop.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3333.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (24).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/shortcutOperators.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_assignment#9_vs-studio.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (87).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/deletefromarray.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (13).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_09.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/count-age-of-students.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (27).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (158).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/6-print_line.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_19.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Y (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/6-cap_string.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (50).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/CallByValue.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (26).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/area-perimeter-of-rectangle.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (142).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (225).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-free_dog.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (11).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (152).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Y (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (164).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern-4.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-realloc.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (20).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (40).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/selection_sorting.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Y (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hague.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (173).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/slide10_7Problems.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_07.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (13).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/problem3Function.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/654.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (78).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/7895.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/77.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3X3matrix.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/nested_function.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Y (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-print_name.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (58).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (75).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/fehrenheit-to-celsius.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/7-leet.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (107).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (9).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/nested_for_loops.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/10-print_triangle.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-args.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pcGuess.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (15).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (60).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-print_comb3.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_dst.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/56421.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (16).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/6-size.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/operators.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (149).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/101-mul.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/exampleCounterN.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/sumOfNodes.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/swapping.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/87 (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/No_of_Squares.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-create_array.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (15).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/SwitchlowNumOnly.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (176).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-print_alphabt.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/addition.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (20).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/binary_tree.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-holberton.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (11).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/threeDigitMirrorNumbers.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (14).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_40.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (77).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (200).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/switch-1-calculator.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/My_Number_Guessing_Game.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/11.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (108).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5555555.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/789 (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-add.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/103-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/countdown_loop.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (180).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (57).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-prime_factor.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4 (using if else).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-key_index.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (103).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (79).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Switch.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw5avgTestgrades.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (224).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/HackerRank_Calculate_GCD.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (44).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (110).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Quiz 6.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_assignment#4_vs-studio.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/number-swap-temp-var.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (127).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/length-of-a-string.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_08.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_tmr.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/typedef.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (15).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (11).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/8-rot13.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (17).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/rwlock.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-print_alphabet.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/thread.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (19).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (10).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/function.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (128).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (12).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/info.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Factorial of given number without using recursive function .c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (122).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (17).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/self.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (183).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (134).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (20).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (104).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-print_numbers.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (17).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Print prime number between 2 and n.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-more_numbers.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (205).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (11).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/stream_barrier.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/myFirstCProgram.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/8bits_hash_generator.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (212).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/uppercase.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (124).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (18).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-hash_table_get.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (14).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (49).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (100).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/odd-or-even.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (25).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (12).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (84).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/multiplelineMacro.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_16.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (17).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-print_rev.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/timer.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (13).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (82).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_29.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_sysenv.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (83).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prime-or-composite.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3258.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/assignment2revised.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/87 (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (12).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Check whether the Number is Prime Or Not.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-whatsmyname.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-rev_array.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/6-area-of-circle.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (179).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (30).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/local.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (188).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_tgt_normal.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (130).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/concatenation.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/armstrong_no.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (96).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/subtraction.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/xhistogram.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern13.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (36).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (18).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Print all numbers, alphabets in capital and lower case.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-new_dog.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/xutils.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (32).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/104-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/897.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (129).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (168).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/temp_conversion.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-largest-amoung-three.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (27).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_cmd_name.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/6-puts2.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_24.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (10).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (39).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Y (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/sum.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/global.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/isPrime.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-alloc_grid.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/periIncheslenghtsquare.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/check whether the number is palindrom or not.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (22).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (28).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/CountDuplicate.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-sign.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/loop6.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/factorial_function.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Maze_Problem_using_Stacks.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (123).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/cube.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/square.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_39.C
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (9).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (17).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (35).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (42).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Fizz_Buzz_CodeGolf.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (14).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/celsius-to-fehrenheit.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_tgt_perf.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/final.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_assignment#5_vs-studio.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (207).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw5.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/gradesArray.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (41).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (169).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (54).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/9-fizz_buzz.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern6.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/string.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Gotcha_34.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-binary.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-string_toupper.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (3).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw6_partD.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (98).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (28).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (16).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (21).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (22).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/factorials_checkpoint4.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/insertintoarray.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (12).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/_putchar.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (19).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (148).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/numbers.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tttttt.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (187).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (18).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-reset_to_98.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/CallByAddress.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (21).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/revisedhwdivisible.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/87 (1).asm
+/home/david/ELFDetection/ELFDetection/c_files/cc/102-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (12).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (175).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-strlen.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_tgt_event.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (139).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (210).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/logicalOperators.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/14.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/HelloC.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (9).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-for-loop.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_assignment#1_vs-studio.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/xpatience.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (19).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Leaky_Bucket_Algorithm.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_15.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (12).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-islower.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/whileloops3.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (222).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (20).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (146).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/holberton.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (9).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-remainder-quotient.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (45).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_13.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/feetToInches.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/102-print_comb5.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern9.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (12).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pointeroffunction.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (24).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/101-natural.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (159).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (21).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (191).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (25).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (219).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (66).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-mul.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/7-print_tebahpla.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/stream.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Stackoverflow_Question.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/swapping-without-3rd-var.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-print_most_numbers.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/test1.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (184).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (14).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/ubc_check.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (182).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw10inProgress.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (105).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (55).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern11.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Paranoid_Android_Optimization.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/funtions.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (31).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/leap-year.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (18).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/sha1.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-malloc_checked.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/gross-salary.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/xdiffi.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (11).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/testGradeScores.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_12.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (94).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/assignment_7.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (91).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_tls.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (65).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-change.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/7-print_last_digit.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/8-print_base16.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw6_partC_final.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/64621.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_37.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw6_partB.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/9-strcpy.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-array-sum.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/106-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (18).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (125).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (90).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (106).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/structures.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/assignment7.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/9.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/101-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/HW8inProgress.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-largest-two-numbers.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (48).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-array_range.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_21.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/thread_attr.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/homework10roughdraft.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (113).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/cond.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-printf.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/sum-individaul-digit.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (171).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/99 (19).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern2.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (56).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-array_iterator.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/insertion_sort.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hello-world.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/input.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-puts.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (52).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/define.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/mutex.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_38.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hello.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/updateArrayStudy.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (12).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/87 (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/9685.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Linear_Search.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-alphabet.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (189).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/10-add.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/area-circle.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (118).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/gradesforclass.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/games_using_c.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_cfg.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (204).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/bubbleSort.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/6-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (193).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/perfectno.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (154).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (201).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-print_rev1.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-swap.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/8-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/7.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Y (2).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/profit-loss.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (17).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/xmerge.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/ascending-order.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (67).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (140).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-positive_or_negative.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/fibonacci.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (10).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/arithmicoperations.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/reverse_string.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/countdown.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (76).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/bmi.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/xprepare.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4556.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (208).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/userguess.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (177).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/volume-of-cylinder.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (9).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (16).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/tr2_ctr.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-args.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_34.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-do-while-loop.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/even-odd-numbers.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (69).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Power_of_Thor.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (73).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern-2.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/division.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-largest_number.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/log.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-argstostr.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/sumdiagonal.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (165).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (72).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (63).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/printAVGdiff4numbers.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (162).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (223).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw6_partA.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern8.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/whileloops2.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-hash_table_set.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (8).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-int_index.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (95).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern3.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/line_splicing.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (16).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (71).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/mutex_attr.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (220).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-strcmp.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (23).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (19).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/101-quote.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Word_Count.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (174).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_30.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (145).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (89).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (97).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Assignment10.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/O (19).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-strtow.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern7.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/callbacks.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (7).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (211).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (15).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (209).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pattern1.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (178).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/hw5inclassSample.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/T (13).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_36.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/101-print_number.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (43).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (37).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (102).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (5).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/5-rev_string.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/search-num-in-the-list.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/lenght_string.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/333.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (24).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/1-strncat.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_05.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (19).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_31.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/U (9).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (4).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/pcguessupgraded.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/4-factorial.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/swap-value.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/6469+845.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/switch-2-days.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_42.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/functions.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/2-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (157).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (29).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/9-main.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/HackerRank_Leibniz_Code_Golf.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-print_number.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/88 (18).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Q (1).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/checkpoint4_mpg.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (221).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/strcat.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (9).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/prc_18.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/average.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/3-op_functions.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/0-strcat.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/100-sorted_hash_table.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (22).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Y (6).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (153).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/threeprices.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (131).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/R1 (9).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/E1 (10).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/practiceOCT25.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (51).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/Z (117).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/A1 (10).c
+/home/david/ELFDetection/ELFDetection/c_files/cc/goto.c
+/home/david/ELFDetection/ELFDetection/c_files/cc/error.c

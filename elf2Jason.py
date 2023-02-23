@@ -95,11 +95,11 @@ def elf_to_json(elf_file_path):
 # print(result.head())
 
 def make_df_norm():
-    ea1 = "/home/david/elf/VirusShare_ELF_20140617/VirusShare_861f1925ee367c5d7b95610fee2c4969"
+    ea1 = "/home/david/ELFDetection/ELFDetection/output/0-avelf"
     f1 = elf_to_json(ea1)
     raw_ds1 = json.loads(f1)
     df = pd.json_normalize(raw_ds1)
-    with open('elfAdress.txt', 'r') as f:
+    with open('good_elf_adress.txt', 'r') as f:
         index = 0 
         for line in f:
             index += 1
@@ -113,7 +113,7 @@ def make_df_norm():
 
                 except:
                     continue
-    df.to_pickle("packed_df.pkl")  # where to save it, usually as a .pkl
+    df.to_pickle("packed_good_df.pkl")  # where to save it, usually as a .pkl
 
 
 make_df_norm()
