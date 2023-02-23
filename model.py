@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import elf2Jason as e2j
 import pandas as pd
 
@@ -30,7 +30,7 @@ data2 = (e2j.elf_to_json(ea2))
 df2 = pd.DataFrame(data2)
 df1 = pd.merge(df1, df2)
 print(df1.head())
-=======
+
 # Imports, settings and first dataset view
 import pandas as pd
 import seaborn as sns
@@ -103,4 +103,4 @@ df = load_dataset_train(dataset_file)
 # # After finishing the arrangements we delete the irrelevant column
 # df.drop('request.Attack_Tag', axis=1, inplace=True)
 # df = renove_nan_columns(df)
->>>>>>> da3cc9e12e66e0bc39a75b5837b02e6a106a30a3
+
