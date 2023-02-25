@@ -6,6 +6,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 from collections import Counter
 import seaborn as sns
 import numpy as np
+import joblib
 
 
 def get_elf_reader(file_path):
@@ -71,7 +72,10 @@ X_train, X_test, y_train, y_test = train_test_split(train_vectors, train_labels,
 
 
 # We choose our model of choice and set it's hyper parameters you can change anything
-clf = RandomForestClassifier(n_estimators=100)
+# clf = RandomForestClassifier(n_estimators=100)
+# Train a Multinomial Naive Bayes classifier on the training data
+clf = MultinomialNB()
+# clf.fit(train_vectors, train_labels)
 
 # Train Model
 clf.fit(X_train, y_train)
@@ -91,15 +95,9 @@ heatmap = sns.heatmap(cf_matrix, annot=True, cmap='Blues', fmt='g',
 # The heatmap is cool but this is the most important result
 print(clf_report)
 
-# Train a Multinomial Naive Bayes classifier on the training data
-# clf = MultinomialNB()
-# clf.fit(train_vectors, train_labels)
 
-# Use the CountVectorizer object to transform the test data into feature vectors
-# test_vectors = vectorizer.transform(test_data)
+# Save the model to a file
+joblib.dump(clf, 'model.joblib')
 
-# Predict the labels for the test data using the trained classifier
-# test_labels = clf.predict(test_vectors)
-
-# Print the predicted labels for the test data
-# print(test_labels)
+# # Load the model from the file
+# loaded_model = joblib.load('model.joblib')

@@ -1,10 +1,30 @@
 import random
 import streamlit as st
 import math
+import joblib
+import subprocess
+import os
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import confusion_matrix, classification_report
+from collections import Counter
+import seaborn as sns
+import numpy as np
+import joblib
+from sklearn.feature_extraction.text import CountVectorizer
+
+def get_elf_reader(file_path):
+    cmd = ['readelf', '-a', file_path]
+    output = subprocess.check_output(cmd, universal_newlines=True)
+    return output
 
 # from sklearn.externals import joblib
 import time
 from PIL import Image
+# Load the model from the file
+def load_model(file_name):
+  loaded_model = joblib.load(file_name)
+  return loaded_model
 
 def load_images(file_name):
   img = Image.open(file_name)
@@ -17,34 +37,35 @@ def load_css(file_name):
 def load_icon(icon_name):
     st.markdown('<i class="material-icons">{}</i>'.format(icon_name), unsafe_allow_html=True)
 # need to change to our actual code
-def algo_to_det(doration, sent, recived)-> int:
-    ans = 0 
-    dot = [sent,recived]
-    # k cluster info embeded here
-    centroids = [[ 487 , 2868 ],[ 248 , 4910544 ],[ 238 , 30046 ],[ 245 , 343635 ]]
-    distance = 4000
-    arr = []
-    arr.append(math.dist(centroids[0], dot))
-    arr.append(math.dist(centroids[1], dot))
-    arr.append(math.dist(centroids[2], dot))
-    arr.append(math.dist(centroids[3], dot))
-    arr.sort()
-    if arr[0] < distance:
-      ans += 1 
-    avgSent = 474.2478980792457 
-    distSent = 150 
-    avgRecive = 4473.532613862158 
-    medianRecive = 1661.0
-    medianSent = 249.0 
-    distRecive = 1500 
 
-    if abs(dot[0] - avgSent) < distSent or abs(dot[0] - medianSent) < distSent:
-      ans += 1 
-    if abs(dot[1] - avgRecive) < distRecive or abs(dot[1] - medianRecive) < distRecive:
-      ans  += 0.7 #this is the result that we get 
-    return ans
+def algo_to_det(fileAddress,model)-> int:
+  
+  try:
+    t = []
+    print("got the file : \n",fileAddress)
+    elf = get_elf_reader(fileAddress)
+    # print("elf file = \n",elf)
+    t.append(elf)
+    # Create a CountVectorizer object to convert the text data into feature vectors
+    vectorizer = CountVectorizer()
 
-def main():
+    # Use the CountVectorizer object to fit and transform the training data
+    elf_vectors = vectorizer.fit_transform(t)
+
+    res = model.predict(elf_vectors)
+
+    print("res = ", res)
+    if res == 'good':
+       return 1
+    else:
+       return -1
+  except:
+    #  if somthing got worng we will return bad file
+    return -1 
+
+
+
+def main(model):
   """ELF Classifier App
     With Streamlit
 
@@ -61,14 +82,11 @@ def main():
 #   load_css('icon.css')
 #   load_icon('people')
 
-  sent_packets = st.number_input("Enter sent packets",min_value=0)
-  recive_packets = st.number_input("Enter recive packets",min_value=0)
-  duration = st.number_input("Enter duration",min_value=0)
+  fileAddress = st.text_input('Input your text here:')
 
-  file_size=st.number_input("Enter file size",min_value=0)
   
   if st.button("Predict"):
-    result = algo_to_det(duration,sent_packets,recive_packets)
+    result = algo_to_det(fileAddress,model)
     if result < 1:
       prediction = 'Bad'
       img = 'mal.png'
@@ -76,8 +94,9 @@ def main():
       prediction = 'Good'
       img = 'ben.jpeg'
 
-    st.success('The data: file size: {}'.format(file_size)) #: {}' ) #sent packets: {}\trevive packets {}\t douratrion:{} \nwas classified as {}'.format(sent_packets,recive_packets,duration,prediction))
+    # st.success('The data: file size: {}'.format(file_size)) #: {}' ) #sent packets: {}\trevive packets {}\t douratrion:{} \nwas classified as {}'.format(sent_packets,recive_packets,duration,prediction))
     load_images(img)
 
 print("#hetchalnu")
-main()
+loaded_model = load_model('model.joblib')
+main(loaded_model)
