@@ -1,7 +1,7 @@
 import json
 from elftools.elf.elffile import ELFFile
 import pandas as pd
-
+import elf2Jv2 as v2
 
 def elf_to_json(elf_file_path):
 
@@ -107,6 +107,7 @@ def make_df_norm():
                 try:
                     s = line.rstrip('\n')
                     data = (elf_to_json(s))
+                    # data = (v2.elf_to_dict(s))
                     raw_ds1 = json.loads(data)
                     df_tmep = pd.json_normalize(raw_ds1)
                     df = pd.concat([df, df_tmep])
@@ -116,6 +117,27 @@ def make_df_norm():
     df.to_pickle("packed_good_df.pkl")  # where to save it, usually as a .pkl
 
 
-make_df_norm()
-df = pd.read_pickle("packed_df.pkl")
-print(df.head)
+def make_df_norm_dict(list_elf_adress = 'good_elf_adress.txt', pickel_name = 'packed_good_df_dict.pkl'):
+    listdict = []
+    with open(list_elf_adress, 'r') as f:
+        index = 0 
+        for line in f:
+            index += 1
+            try:
+                s = line.rstrip('\n')
+                data = (v2.elf_to_dict(s))
+                flat_data = v2.flatten_dict(data)
+                listdict.append(flat_data)
+            except:
+                continue
+    df = pd.DataFrame(listdict)
+    df.to_pickle(pickel_name)  # where to save it, usually as a .pkl
+    return df 
+
+
+df1 = make_df_norm_dict("elfAdress.txt","packed_bad_df_dict.pkl")
+print(df1.head)
+
+
+# df = pd.read_pickle("packed_good_df_dict.pkl")
+# print(df.head)
