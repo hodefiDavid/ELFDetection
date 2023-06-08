@@ -50,6 +50,11 @@ count_urls_in_elf: This feature involved counting the number of URLs present wit
 
 These features were incorporated into the machine learning algorithms to enhance the classification and detection of malicious components within the ELF files.
 
+## Results
+
+
+![image](https://github.com/hodefiDavid/ELFDetection/assets/74601548/b6626c78-50e0-4333-826c-352a44868fc6)
+
 
 ## Contributing
 
