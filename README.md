@@ -26,36 +26,40 @@ We used "readelf" on Linux and created a TXT file describing each ELF file.
 
 We scanned the various features, and from them, we ran our machine learning algorithm to identify the malicious components.
 
-## Table of Contents
+## The Features
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+We utilized the following features during the classification process:
 
-## Installation
+count_distinct_strings_in_elf: This feature involved counting the number of distinct strings present in the ELF file, providing insights into the variety and complexity of the file's contents.
 
-Provide step-by-step instructions on how to install and set up your project. You can include any dependencies that need to be installed and any configuration that needs to be done.
+get_strtab_type: By extracting the string table type from the ELF file, we gained information about the purpose and usage of the strings stored in the file.
 
-## Usage
+get_gotplt_size: The Global Offset Table/Procedure Linkage Table (GOT/PLT) size was determined, offering valuable details about the size and complexity of the file's dynamic linking structure.
 
-Demonstrate how to use your project, either through code examples or screenshots. Provide clear instructions and explanations to help users understand how to interact with your project.
+get_section_header_size: This feature involved obtaining the size of the section header, which helps understand the organization and layout of different sections within the ELF file.
+
+get_file_entropy: The file entropy was calculated, providing a measure of the file's randomness and complexity. This feature can indicate whether the file exhibits characteristics of obfuscation or encryption.
+
+get_section_header_count: The count of section headers in the ELF file was extracted. This information assists in understanding the number and types of sections present in the file.
+
+count_ips_in_elf: This feature involved counting the occurrences of IP addresses within the ELF file, which can provide insights into potential network-related activities or communication within the malware.
+
+get_elf_size: The size of the ELF file was determined, which gives an indication of the overall file size and complexity.
+
+count_urls_in_elf: This feature involved counting the number of URLs present within the ELF file, which can indicate potential network-related behavior or communication channels used by the malware.
+
+These features were incorporated into the machine learning algorithms to enhance the classification and detection of malicious components within the ELF files.
+
 
 ## Contributing
 
-Explain how others can contribute to your project. Provide guidelines for submitting pull requests and reporting issues. Mention any coding conventions, development processes, or style guides that contributors should follow.
+David Hodefi- https://github.com/hodefiDavid
+Haim Willinger- https://github.com/ChaimW25
 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Refer to the [LICENSE](LICENSE) file for more information.
 
-## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out:
-
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 
